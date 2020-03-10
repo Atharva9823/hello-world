@@ -1,2 +1,2 @@
 Commands brushup
-changes were made
+changes were made <- This line is modified
